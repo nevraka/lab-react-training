@@ -1,0 +1,28 @@
+.container {
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.type {
+  text-align: right;
+  height: 20px;
+}
+.number {
+  font-size: 1.9em;
+  text-align: center;
+  margin: 20px 0;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.bank {
+  padding-left: 20px;
+}
+.owner {
+  text-align: left;
+  padding: 10px;
+}
